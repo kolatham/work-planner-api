@@ -1,1 +1,1 @@
-# work-planner-api
+This is an event planner to keep track of schedules. The client will be able to set an appointment and leave a description of the event behind. This planner goes 9-5 and keeps the current date. Based on time, the event planner is color-coded to indicate whether the time slot is in the past, present, or future depending on the location and date of the client.
